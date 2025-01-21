@@ -11,58 +11,57 @@ Ps: Our code can also run on a desktop with Apple M1 and 8GB RAM running macOS M
 
  # Usage
 
-python ECRC.py IMDB.txt
+python ECRC.py Cora.txt
 
 The  running results are as follows
 
-	IMBD.txt is loading...
-	number of left_nodes617
-	number of right_nodes1398
-	average_left_degree8.625607779578607
-	average_right_degree3.8068669527896994
-	number of edges5322.0
+	Cora.txt is loading...
+	number of left_nodes2708
+	number of right_nodes1432
+	average_left_degree18.174298375184637
+	average_right_degree34.36871508379888
+	number of edges49216.0
 	p,q: 2  2
 	################ECRC###########
-	quality_ECRC  0.0028099754127151387
-	time of ECRC  0.2311077117919922
+	quality_ECRC  0.13350874452841222
+	time of ECRC  40.219770193099976
 	################ECRC_E###########
-	quality_ECRC_E  0.0
-	time of ECRC_E  0.15845584869384766
+	quality_ECRC_E  0.01697685939889084
+	time of ECRC_E  2.20005202293396
 	p,q: 2  3
 	################ECRC###########
-	quality_ECRC  0.0005022601707684581
-	time of ECRC  0.08385944366455078
+	quality_ECRC  0.04286252203668915
+	time of ECRC  40.4626841545105
 	################ECRC_E###########
-	quality_ECRC_E  0.0
-	time of ECRC_E  0.16689419746398926
+	quality_ECRC_E  0.0004645877621797628
+	time of ECRC_E  2.203089952468872
 	p,q: 3  2
 	################ECRC###########
 	quality_ECRC  0.0
-	time of ECRC  0.18693304061889648
+	time of ECRC  31.39865517616272
 	################ECRC_E###########
-	quality_ECRC_E  0.0
-	time of ECRC_E  0.15209364891052246
+	quality_ECRC_E  0.004221901818285617
+	time of ECRC_E  2.1270155906677246
 	p,q: 2  4
 	################ECRC###########
-	quality_ECRC  0.007633587786259542
-	time of ECRC  0.017497777938842773
+	quality_ECRC  0.017497699365793568
+	time of ECRC  33.816262006759644
 	################ECRC_E###########
-	quality_ECRC_E  0.0
-	time of ECRC_E  0.15550017356872559
+	quality_ECRC_E  1.7294161220552104e-05
+	time of ECRC_E  2.221113443374634
 	p,q: 3  3
 	################ECRC###########
-	quality_ECRC  0.0
-	time of ECRC  0.01649165153503418
+	quality_ECRC  0.09766514471431044
+	time of ECRC  31.932520389556885
 	################ECRC_E###########
-	quality_ECRC_E  0.0
-	time of ECRC_E  0.15317773818969727
+	quality_ECRC_E  1.585627553892494e-05
+	time of ECRC_E  2.0966732501983643
 	p,q: 4  2
 	################ECRC###########
-	quality_ECRC  0.0
-	time of ECRC  0.0749671459197998
+	quality_ECRC  0.24280150603998957
+	time of ECRC  24.059733152389526
 	################ECRC_E###########
-	quality_ECRC_E  0.0
-	time of ECRC_E  0.1459662914276123
-
+	quality_ECRC_E  0.0013038401534577252
+	time of ECRC_E  2.122148275375366
 
 
